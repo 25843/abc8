@@ -1,0 +1,19 @@
+{
+  "tags": [
+    {
+      "TagID": "432ED841-380D-47FB-ABCB-01D44EA33CF3",
+      "TagName": "Tag 1",
+      "TagCode": "TAG1"
+    },
+    {
+      "TagID": "DDEBF672-72C3-4878-8038-0214645AE1FF",
+      "TagName": "Tag 2",
+      "TagCode": "TAG2"
+    },
+    {
+      "TagID": "866DB605-1900-4011-BB85-5B5465D28768",
+      "TagName": "Tag 3",
+      "TagCode": "TAG3"
+    }
+  ]
+}
